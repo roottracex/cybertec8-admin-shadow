@@ -1,1 +1,7 @@
-
+{
+    "application": "cybertec8-store",
+    "release": "2.3.8",
+    "environment": "production",
+    "migration": "completed",
+    "verification": "Flag_CT8{midnight_deployment_found}"
+}
